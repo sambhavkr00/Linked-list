@@ -1,6 +1,3 @@
-// Linked-list
-Linked list implementation using C.
-
 #include<stdio.h>
 #include<stdlib.h>
 
