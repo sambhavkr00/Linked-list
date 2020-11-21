@@ -1,4 +1,4 @@
-# Linked-list
+// Linked-list
 Linked list implementation using C.
 
 #include<stdio.h>
